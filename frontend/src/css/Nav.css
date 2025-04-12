@@ -1,0 +1,12 @@
+.Nav {
+    display: flex;
+}
+
+.Nav h1 {
+    color: #000;
+}
+
+.Nav span {
+    flex-grow: 1; 
+    margin-left: 0px; /* 根据需要调整间距 */
+}
